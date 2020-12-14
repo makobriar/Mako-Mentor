@@ -17,20 +17,27 @@ ________________________________________________________________________________
 
 HOW TO EDIT DUTY JOURNALS
 `````````````````````````````````
-    1. Open the 'data' folder and search for the dungeon you need.
-        1a. If it doesn't exist, create a new folder under the proper
-            type, and copy the format of others.
-            AKA: Dungeon Name.html is the general guide, followed by
-            all the necessary files for tank, healer, and dps (even
-            if they have to be blank.)
-    2. Edit it by using HTML. No need to add a <style> tag, that's all
-       prepended by the 'default_style.html' file directly in the 
-       data folder.
-    3. If you need to add an image, add whatever you need in the 'images'
-       folder. I'm trying to add minimal icons for boss mechanics, so feel
-       free to use those.
-    4. When you're finished: that's it! Make sure your files are saved and
-       they should pull up in Mako Mentor.
+    Via MakoMentor.exe:
+    ````````````````````
+        1. Upon selecting a duty, click 'Edit' on the top bar.
+        2. After making your changes, click 'Save'. You're done!
+        
+    Manually:
+    ````````````````````
+        1. Open the 'data' folder and search for the dungeon you need.
+            1a. If it doesn't exist, create a new folder under the proper
+                type, and copy the format of others.
+                AKA: Dungeon Name.html is the general guide, followed by
+                all the necessary files for tank, healer, and dps (even
+                if they have to be blank.)
+        2. Edit it by using HTML. No need to add a <style> tag, that's all
+           prepended by the 'default_style.html' file directly in the 
+           data folder.
+        3. If you need to add an image, add whatever you need in the 'images'
+           folder. I'm trying to add minimal icons for boss mechanics, so feel
+           free to use those.
+        4. When you're finished: that's it! Make sure your files are saved and
+           they should pull up in Mako Mentor.
 
 
 TROUBLESHOOTING
